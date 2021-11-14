@@ -89,7 +89,7 @@
             "required": false
         },
         "SINGLE_BUTTON": {
-            "description": "choose b/w single or double buttons b-single \ w - double https://github.com/flashbotshere/flashautofilterer ",
+            "description": "choose b/w single or double buttons https://github.com/flashbotshere/flashautofilterer/issues/22 ",
             "required": false
         },
         "P_TTI_SHOW_OFF": {
