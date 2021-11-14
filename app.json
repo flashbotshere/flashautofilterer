@@ -67,11 +67,11 @@
             "required": false
         },
         "DATABASE_URI": {
-            "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
+            "description": "mongoDB URI. Get this value from https://www.mongodb.com. ",
             "required": true
         },
         "DATABASE_NAME": {
-            "description": "Name of the database in mongoDB. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
+            "description": "Name of the database in mongoDB. ",
             "required": false
         },
         "COLLECTION_NAME": {
@@ -89,7 +89,7 @@
             "required": false
         },
         "SINGLE_BUTTON": {
-            "description": "choose b/w single or double buttons b-single \ w - double",
+            "description": "choose b/w single or double buttons b-single \ w - double https://github.com/flashbotshere/flashautofilterer ",
             "required": false
         },
         "P_TTI_SHOW_OFF": {
