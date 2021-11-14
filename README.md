@@ -1,6 +1,6 @@
 </p>
 <h1 align="center">
-  <b>Flash auto filterer t</b>
+  <b>Flash auto filterer </b>
 </h1>
 
 
